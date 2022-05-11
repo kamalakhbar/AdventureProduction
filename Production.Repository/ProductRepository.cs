@@ -37,12 +37,12 @@ namespace Production.Repository
         }
 
         public async Task<Product> GetProductByNameAsync(string productName, bool trackChanges)
-        => await FindByCondition(x => x.Name.Equals(productName), trackChanges).SingleOrDefaultAsync();
+        => await FindByCondition(x => x.Name.Equals(productName), trackChanges).SingleAsync();
 
 
-        public async Task<Product> GetProductByProductNumberAsync(string ProductNumber, bool trackChanges)
+        public async Task<Product> GetProductByProductNumberAsync(string _productNumber, bool trackChanges)
         {
-            return await FindByCondition(x => x.ProductNumber.Equals(ProductNumber), trackChanges).SingleOrDefaultAsync();
+            return await FindByCondition(x => x.ProductNumber.Equals(_productNumber), trackChanges).SingleOrDefaultAsync();
         }
 
         //public Task<ProductSubcategory> GetProductBySubCategoryIDAsync(int ProductSubCategoryID, bool trackChanges)

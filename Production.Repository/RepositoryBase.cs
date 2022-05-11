@@ -28,7 +28,7 @@ namespace Production.Repository
             !trackChanges ? adventureContext.Set<T>().AsNoTracking() : adventureContext.Set<T>();
 
         public IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression, bool trackChanges) =>
-            !trackChanges ? adventureContext.Set<T>().AsNoTracking()
+            !trackChanges ? adventureContext.Set<T>().Where(expression).AsNoTracking()
             : adventureContext.Set<T>().Where(expression);
 
         public void Update(T entity) => adventureContext.Set<T>().Update(entity);

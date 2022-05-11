@@ -57,5 +57,23 @@ namespace ProductionWebApi.Controllers
             }
         }
 
+        [HttpGet("ProdNumb", Name = "ProductNumberAsync")]
+        public async Task<IActionResult> GetProductByNumberAsync(string productNumber)
+        {
+            var product = await _repository.ProductRepository.GetProductByProductNumberAsync(productNumber, trackChanges: false);
+            if (product == null)
+            {
+                _logger.LogInfo($"product with name {productNumber} NOT FOUND");
+                return NotFound();
+            }
+            else
+            {
+                var productDTO = _mapper.Map<ProductDTO>(product);
+                return Ok(productDTO);
+            }
+        }
+
+        //[HttpGet("pagination")]
+        //public async Task<IActionResult> 
     }
 }
