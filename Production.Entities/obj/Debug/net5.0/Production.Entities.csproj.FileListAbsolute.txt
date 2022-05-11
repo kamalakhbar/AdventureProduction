@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.deps.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.dev.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfo.cs
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll

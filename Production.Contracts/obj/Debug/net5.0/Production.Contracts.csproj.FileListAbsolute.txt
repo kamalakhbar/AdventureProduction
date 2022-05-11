@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\bin\Debug\net5.0\Production.Contracts.deps.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\bin\Debug\net5.0\Production.Contracts.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\bin\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\bin\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.AssemblyInfo.cs
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.csproj.CopyComplete
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\refint\Production.Contracts.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\Production.Contracts.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Contracts\obj\Debug\net5.0\ref\Production.Contracts.dll
