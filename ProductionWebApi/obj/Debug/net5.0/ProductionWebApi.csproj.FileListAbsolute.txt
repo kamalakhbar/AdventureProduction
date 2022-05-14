@@ -1,0 +1,319 @@
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.exe
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.deps.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.dev.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfo.cs
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\scopedcss\bundle\ProductionWebApi.styles.css
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\staticwebassets\ProductionWebApi.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CopyComplete
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\refint\ProductionWebApi.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.genruntimeconfig.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\obj\Debug\net5.0\ref\ProductionWebApi.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\nlog.config
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\NLog.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.Repository.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\ProductionWebApi\bin\Debug\net5.0\Production.Repository.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\nlog.config
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\appsettings.json
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.exe
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.deps.json
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.json
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.dev.json
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\NLog.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Repository.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Repository.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.AssemblyReference.cache
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfoInputs.cache
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfo.cs
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CoreCompileInputs.cache
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\scopedcss\bundle\ProductionWebApi.styles.css
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\staticwebassets\ProductionWebApi.StaticWebAssets.Manifest.cache
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.RazorTargetAssemblyInfo.cache
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CopyComplete
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\refint\ProductionWebApi.dll
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.pdb
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.genruntimeconfig.cache
+C:\Bootcamp\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ref\ProductionWebApi.dll
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.AssemblyReference.cache
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfoInputs.cache
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfo.cs
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CoreCompileInputs.cache
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.dll
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\refint\ProductionWebApi.dll
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\nlog.config
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\appsettings.json
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.exe
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.deps.json
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.json
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.dev.json
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Humanizer.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\NLog.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Entities.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Repository.dll
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Entities.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.pdb
+D:\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Repository.pdb
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\scopedcss\bundle\ProductionWebApi.styles.css
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\staticwebassets\ProductionWebApi.StaticWebAssets.Manifest.cache
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.RazorTargetAssemblyInfo.cache
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CopyComplete
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.genruntimeconfig.cache
+D:\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ref\ProductionWebApi.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.AssemblyReference.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfoInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.AssemblyInfo.cs
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CoreCompileInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\refint\ProductionWebApi.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\nlog.config
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\appsettings.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.exe
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.deps.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.runtimeconfig.dev.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\ProductionWebApi.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\NLog.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Repository.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.LoggerService.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\bin\Debug\net5.0\Production.Repository.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\scopedcss\bundle\ProductionWebApi.styles.css
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\staticwebassets\ProductionWebApi.StaticWebAssets.Manifest.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.RazorTargetAssemblyInfo.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.csproj.CopyComplete
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ProductionWebApi.genruntimeconfig.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\ProductionWebApi\obj\Debug\net5.0\ref\ProductionWebApi.dll

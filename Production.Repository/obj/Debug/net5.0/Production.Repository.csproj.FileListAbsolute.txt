@@ -1,0 +1,71 @@
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\bin\Debug\net5.0\Production.Repository.deps.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\bin\Debug\net5.0\Production.Repository.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\bin\Debug\net5.0\Production.Repository.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\bin\Debug\net5.0\Production.Contracts.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\bin\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\bin\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfo.cs
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CopyComplete
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\refint\Production.Repository.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\Production.Repository.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Repository\obj\Debug\net5.0\ref\Production.Repository.dll
+C:\Bootcamp\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.deps.json
+C:\Bootcamp\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.dll
+C:\Bootcamp\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.pdb
+C:\Bootcamp\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Contracts.dll
+C:\Bootcamp\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Bootcamp\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.AssemblyReference.cache
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfoInputs.cache
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfo.cs
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CoreCompileInputs.cache
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CopyComplete
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.dll
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\refint\Production.Repository.dll
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.pdb
+C:\Bootcamp\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\ref\Production.Repository.dll
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.AssemblyReference.cache
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfoInputs.cache
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfo.cs
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CoreCompileInputs.cache
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.dll
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\refint\Production.Repository.dll
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.pdb
+D:\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.deps.json
+D:\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.dll
+D:\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.pdb
+D:\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Contracts.dll
+D:\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Entities.dll
+D:\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Contracts.pdb
+D:\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Entities.pdb
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CopyComplete
+D:\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\ref\Production.Repository.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.deps.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Repository.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Contracts.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.AssemblyReference.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfoInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.AssemblyInfo.cs
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CoreCompileInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.csproj.CopyComplete
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\refint\Production.Repository.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\ref\Production.Repository.dll
+D:\nww\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.dll
+D:\nww\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\refint\Production.Repository.dll
+D:\nww\AdventureProduction-main\Production.Repository\obj\Debug\net5.0\Production.Repository.pdb

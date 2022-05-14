@@ -1,0 +1,68 @@
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.deps.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfo.cs
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CopyComplete
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\refint\Production.LoggerService.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.LoggerManager\obj\Debug\net5.0\ref\Production.LoggerService.dll
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.deps.json
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.dll
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.pdb
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.dll
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.AssemblyReference.cache
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfoInputs.cache
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfo.cs
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CoreCompileInputs.cache
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CopyComplete
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.dll
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\refint\Production.LoggerService.dll
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.pdb
+C:\Bootcamp\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\ref\Production.LoggerService.dll
+D:\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.deps.json
+D:\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.dll
+D:\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.pdb
+D:\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.dll
+D:\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.dll
+D:\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.pdb
+D:\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.pdb
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.AssemblyReference.cache
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfoInputs.cache
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfo.cs
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CoreCompileInputs.cache
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CopyComplete
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.dll
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\refint\Production.LoggerService.dll
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.pdb
+D:\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\ref\Production.LoggerService.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.deps.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.LoggerService.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Contracts.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.AssemblyReference.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfoInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.AssemblyInfo.cs
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CoreCompileInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.csproj.CopyComplete
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\refint\Production.LoggerService.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\Production.LoggerService.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.LoggerManager\obj\Debug\net5.0\ref\Production.LoggerService.dll

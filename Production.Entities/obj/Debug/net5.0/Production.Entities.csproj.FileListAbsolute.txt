@@ -1,0 +1,75 @@
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.deps.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.dev.json
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\bin\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfo.cs
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
+C:\Users\User\Downloads\Butkem ASTRA\MiniProject\Production\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll
+C:\Bootcamp\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.deps.json
+C:\Bootcamp\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.json
+C:\Bootcamp\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.dev.json
+C:\Bootcamp\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.AssemblyReference.cache
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfoInputs.cache
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfo.cs
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.CoreCompileInputs.cache
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
+C:\Bootcamp\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll
+D:\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.deps.json
+D:\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.json
+D:\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.dev.json
+D:\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.dll
+D:\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.pdb
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.AssemblyReference.cache
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfoInputs.cache
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfo.cs
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.CoreCompileInputs.cache
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
+D:\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.deps.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.dev.json
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.AssemblyReference.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfoInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfo.cs
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.CoreCompileInputs.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
+C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
+D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.deps.json
+D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.json
+D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.dev.json
+D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.dll
+D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.pdb
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.AssemblyReference.cache
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfoInputs.cache
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfo.cs
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.CoreCompileInputs.cache
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll
