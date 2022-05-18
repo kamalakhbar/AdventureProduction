@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{A936ADB0-F1E9-41B4-BF10-8AB340B575A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductionWebApi", "ProductionWebApi\ProductionWebApi.csproj", "{514BC625-A515-49C2-92AD-C12D3AC486B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductionWebApi", "ProductionWebApi\ProductionWebApi.csproj", "{514BC625-A515-49C2-92AD-C12D3AC486B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production.Entities", "Production.Entities\Production.Entities.csproj", "{46862BAC-C3D9-43E3-86F8-AD818779E754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Production.Entities", "Production.Entities\Production.Entities.csproj", "{46862BAC-C3D9-43E3-86F8-AD818779E754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production.Contracts", "Production.Contracts\Production.Contracts.csproj", "{44BC79D4-95A1-460E-B215-00E26998D320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Production.Contracts", "Production.Contracts\Production.Contracts.csproj", "{44BC79D4-95A1-460E-B215-00E26998D320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production.Repository", "Production.Repository\Production.Repository.csproj", "{5A7E7041-942F-48AB-BA95-AAF8D0D16CBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Production.Repository", "Production.Repository\Production.Repository.csproj", "{5A7E7041-942F-48AB-BA95-AAF8D0D16CBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production.LoggerService", "Production.LoggerManager\Production.LoggerService.csproj", "{635E0C08-C78B-407C-BE4D-456D505F3F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Production.LoggerService", "Production.LoggerManager\Production.LoggerService.csproj", "{635E0C08-C78B-407C-BE4D-456D505F3F4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

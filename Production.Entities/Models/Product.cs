@@ -18,6 +18,8 @@ namespace Production.Entities.Models
             ProductReviews = new HashSet<ProductReview>();
             TransactionHistories = new HashSet<TransactionHistory>();
             WorkOrders = new HashSet<WorkOrder>();
+            ReorderPoint = 750; // ini utk default
+            //jika kita pakai EF mau bikin default value harus di konstruktor
         }
 
         public int ProductID { get; set; }

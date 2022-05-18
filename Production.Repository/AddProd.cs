@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Production.Contracts;
 using Production.Entities.AdventureContexts;
+using Production.Entities.DTO;
 using Production.Entities.Models;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,13 @@ namespace Production.Repository
     {
         public AddProd(AdventureContext adventure) : base(adventure)
         {
+        }
+
+
+
+        public Task<IEnumerable<Product>> GetAllProd(AddProductDTO addProductDTO, bool trackChanges)
+        {
+            throw new NotImplementedException();
         }
 
         public async Task<Product> GetProductByID(int ProdID, bool trackChanges)
@@ -36,7 +44,7 @@ namespace Production.Repository
 
         void IAddProd.Update(Product product)
         {
-            throw new NotImplementedException();
+            Update(product);
         }
     }
 }

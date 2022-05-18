@@ -8,17 +8,18 @@ namespace Production.Entities.DTO
 {
     public class AddProductDTO
     {
-        //public int ProductID { get; set; }
+        public int ProductID { get; set; }
         public string Name { get; set; }
         public string ProductNumber { get; set; }
-        public string? Color { get; set; }
-        public int SafelyStockLevel { get; set; }
+        public string Color { get; set; }
+        public short SafelyStockLevel { get; set; }
+        public short ReorderPoint { get; set; }
         public decimal ListPrice { get; set; }
         public decimal StandartCost { get; set; }
-        public string? Size { get; set; }
-        public string? unitMeasure { get; set; }
-        public string? WeightType { get; set; }
-        public float Weight { get; set; }
+        public string Size { get; set; }
+        public string unitMeasure { get; set; }
+        public string WeightType { get; set; }
+        public decimal Weight { get; set; }
         public int DaytoManufacture { get; set; }
         public string ProductLine { get; set; }
         public string Class { get; set; }

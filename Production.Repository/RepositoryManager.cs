@@ -12,9 +12,11 @@ namespace Production.Repository
     {
         private AdventureContext _adventureContext;
         private IProductRepository _productRepository;
-        private IAddProduct _addProduct;
+        //private IAddProduct _addProduct;
         private IAddProd _addProd;
-
+       // private ICOBA _coba;
+       // private IBARU _baru;
+      // private I
         public RepositoryManager(AdventureContext adventureContext)
         {
             _adventureContext = adventureContext;
@@ -36,19 +38,21 @@ namespace Production.Repository
             }
         }
 
-        public IAddProduct AddProduct
-        {
-            get
-            {
-                if (_addProduct == null)
-                {
-                    _addProduct = new AddProductRepository(_adventureContext);
-                }
-                return _addProduct;
-            }
-        }
+        //public IAddProduct AddProduct
+        //{
+        //    get
+        //    {
+        //        if (_addProduct == null)
+        //        {
+        //            _addProduct = new AddProductRepository(_adventureContext);
+        //        }
+        //        return _addProduct;
+        //    }
+        //}
 
-        public IAddProd AddProd
+        
+
+        public IAddProd ProdukBaru
         {
             get
             {
@@ -59,6 +63,21 @@ namespace Production.Repository
                 return _addProd;
             }
         }
+
+
+        //public ICOBA Nyoba
+        //{
+        //    get
+        //    {
+        //        if (_coba == null)
+        //        {
+        //            _coba = new COBA(_adventureContext);
+        //        }
+        //        return _coba;
+        //    }
+        //}
+
+
 
         public void Save()
         {

@@ -17,14 +17,16 @@ namespace ProductionWebApi.Controllers
     public class ProductController : ControllerBase
     {
         private readonly IRepositoryManager _repository;
+        private readonly IServiceManager _serviceManager;
         private readonly ILoggerManager _logger;
         private readonly IMapper _mapper;
 
-        public ProductController(IRepositoryManager repository, ILoggerManager logger, IMapper mapper)
+        public ProductController(IRepositoryManager repository, ILoggerManager logger, IMapper mapper, IServiceManager serviceManager)
         {
             _repository = repository;
             _logger = logger;
             _mapper = mapper;
+            _serviceManager = serviceManager;   
         }
 
         [HttpGet]
@@ -53,23 +55,30 @@ namespace ProductionWebApi.Controllers
         [HttpPost("Add")]
         public async Task<IActionResult> PostCustomer([FromBody] AddProductDTO addProductDTO)
         {
-            if (addProductDTO == null)
+            var prodd = await _serviceManager.AddToCart(addProductDTO);
+            if (!prodd)
             {
-                _logger.LogError("PRODUCT IS NULL");
-                return BadRequest("PRODUCT IS NULL");
+                _logger.LogError("ERROR");
+                return BadRequest();
             }
-            //objek modelstate digunakan utk memvalidasi daata yg di tangkap oleh customerDTO
-            if (!ModelState.IsValid)
-            {
-                _logger.LogError("Invalid Modelstate");
-                return UnprocessableEntity(addProductDTO);
-            }
-            var ProdEntity = _mapper.Map<Product>(addProductDTO);
-            _repository.AddProd.Create(ProdEntity);
-            await _repository.SaveAsync();
+            var productDTO = _mapper.Map<IEnumerable<AddProductDTO>>(prodd);
+            return Ok(productDTO);            //if (addProductDTO == null)
+            //{
+            //    _logger.LogError("PRODUCT IS NULL");
+            //    return BadRequest("PRODUCT IS NULL");
+            //}
+            ////objek modelstate digunakan utk memvalidasi daata yg di tangkap oleh customerDTO
+            //if (!ModelState.IsValid)
+            //{
+            //    _logger.LogError("Invalid Modelstate");
+            //    return UnprocessableEntity(addProductDTO);
+            //}
+            //var ProdEntity = _mapper.Map<Product>(addProductDTO);
+            //_repository.Nyoba.Create(ProdEntity);
+            //await _repository.SaveAsync();
 
-            var ProductToReturn = _mapper.Map<AddProductDTO>(ProdEntity);
-            return CreatedAtAction("Product ID ", new { id = ProductToReturn.Name }, ProductToReturn);
+            //var ProductToReturn = _mapper.Map<AddProductDTO>(ProdEntity);
+            //return CreatedAtAction("Product ID ", new { id = ProductToReturn.ProductID }, ProductToReturn);
         }
 
     }

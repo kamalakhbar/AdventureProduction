@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LjBhh28kQgFFzjU0yWRW3jIKim2VZAWhUvF2sBHwpIQjR235qPtOIaOq6ZLZ8+PqPZLJpfqaeObV38Cqu6V4+Q==",
+  "dgSpecHash": "xus8O1IodKM3Tc4qb+P8upebw0gRZy14FrP00HRp9J9Nm74qBRye9BAb/hpsrBWqeIqk2cexB1T5i6g6BTYKqA==",
   "success": true,
   "projectFilePath": "D:\\nww\\AdventureProduction-main\\ProductionWebApi\\ProductionWebApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

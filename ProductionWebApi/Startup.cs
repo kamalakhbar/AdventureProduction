@@ -35,6 +35,7 @@ namespace ProductionWebApi
             services.ConfigureLoggerService();
             services.ConfigureDbContext(Configuration);
             services.ConfigureRepositoryManager();
+            services.ConfigureServiceManager();
             services.AddAutoMapper(typeof(Startup));
             services.AddControllers();
             services.AddSwaggerGen(c =>

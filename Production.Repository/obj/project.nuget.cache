@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Phtu+KdGq1e+MOes3lcW4CGvep10SHCJqKuQe77RXxkJBr6pCjwAKNCYek9lsb18hoTrlo5ATDyemEmk6u5B5g==",
+  "dgSpecHash": "nDUIcexvp95B1EzEVmxFUzT0nw8tqfRFCawFqF2Uyj9jvefboCCf/XfAUT+nkiD6O0z4uwpqZM1l54jqtieA7g==",
   "success": true,
   "projectFilePath": "D:\\nww\\AdventureProduction-main\\Production.Repository\\Production.Repository.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
@@ -20,7 +21,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.16\\microsoft.entityframeworkcore.5.0.16.nupkg.sha512",

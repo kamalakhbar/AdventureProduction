@@ -58,9 +58,6 @@ C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\
 C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
 C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
 C:\Bootcamp\NEWWW\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll
-D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
-D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
-D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
 D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.deps.json
 D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.json
 D:\nww\AdventureProduction-main\Production.Entities\bin\Debug\net5.0\Production.Entities.runtimeconfig.dev.json
@@ -71,5 +68,8 @@ D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.
 D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfoInputs.cache
 D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.AssemblyInfo.cs
 D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.csproj.CoreCompileInputs.cache
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.dll
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\refint\Production.Entities.dll
+D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.pdb
 D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\Production.Entities.genruntimeconfig.cache
 D:\nww\AdventureProduction-main\Production.Entities\obj\Debug\net5.0\ref\Production.Entities.dll
